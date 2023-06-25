@@ -17,4 +17,8 @@ elif oprator == '%':
     print(first_num%second_num)
 
 else:
-    print("Enter valid oprator")
+    if oprator == 'Ctrl+x':
+        print("Exit...")
+
+print("Thanks for using this code ")
+
