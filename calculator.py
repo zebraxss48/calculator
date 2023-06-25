@@ -20,5 +20,5 @@ else:
     if oprator == 'Ctrl+x':
         print("Exit...")
 
-print("Thanks for using this code ")
+print("Thanks for using my code ")
 
